@@ -30,8 +30,15 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - making another folder review into the product folder and call dynamicly
 - http://localhost:3000/product/1/review/1
 
-*** routing with pages
-- 
+*** routing with pages >> catches all route
+- make a special folder name docs and aand a special file [...params].js 
+- it will match any url that contain docs segment in the path
+- it will seo friendly any url can run
+- it can captured the url navigation in a array[] and it can return arry ways jsx 
 
+*** link component
+- linking all type of pages
+- with replace 
+- props id passing dynamic
 
 
