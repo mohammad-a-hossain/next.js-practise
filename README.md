@@ -2,7 +2,7 @@
 ## Getting Started
 
 First, run the development server:
-
+# branch main
 
 npm run dev
 # or
@@ -29,6 +29,9 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 *** nested dynamic route
 - making another folder review into the product folder and call dynamicly
 - http://localhost:3000/product/1/review/1
+
+*** routing with pages
+- 
 
 
 
