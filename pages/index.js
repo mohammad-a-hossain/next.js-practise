@@ -1,7 +1,17 @@
 
 import Link from 'next/link';
+import { useRouter } from 'next/router';
 
  function Home() {
+     const router =  useRouter()
+
+    const handleButton=()=>{
+         console.log('order place')
+         alert('order placed')
+         /* router.push('/product') */
+         router.replace('/product')
+
+    }
   return (
       <div>
       <li>
@@ -15,7 +25,7 @@ import Link from 'next/link';
       </Link>
       </li>
    
-      
+      <button onClick={handleButton}>order</button>
       </div>
     
       

@@ -1,5 +1,6 @@
 
 ## Getting Started
+*** curtesy = codeevalution
 
 First, run the development server:
 # branch main
@@ -16,6 +17,11 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 # learning process
 ---
 ## routing section
+1. page based routing system
+2. nested routing system
+3. dynamic routing system using []
+4. catch all route ...[]
+---
 - install a third party package
 - file system based routing mechanism
 - deleting api folder and index.js from root file
@@ -35,10 +41,22 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - it will match any url that contain docs segment in the path
 - it will seo friendly any url can run
 - it can captured the url navigation in a array[] and it can return arry ways jsx 
+---
 
-*** link component
+## link component
 - linking all type of pages
 - with replace 
 - props id passing dynamic
+*** programming navigation
+- using index home page a button 
+- using router.push()
+- using router.replace()
+***  404 page
+- 404 page is made for custom display
+- usually 404 page is default in next.js
+---
+## pre rendering and data fetching
+
+
 
 
