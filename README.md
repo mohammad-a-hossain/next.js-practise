@@ -1,6 +1,6 @@
 
 ## Getting Started
-*** curtesy = codeevalution
+*** curtesy = codeevalution-biswas
 
 First, run the development server:
 # branch main
@@ -56,7 +56,8 @@ You can start editing the page by modifying `pages/index.js`. The page auto-upda
 - usually 404 page is default in next.js
 ---
 ## pre rendering and data fetching
-
+*** static generation
+*** server side rendering
 
 
 
